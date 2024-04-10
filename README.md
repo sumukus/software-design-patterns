@@ -2,4 +2,4 @@
 Gang of Four(GoF): 23 software design patterns
 
 
-![Software Design Patterns]([https://github.com/your_username/your_repository/blob/main/images/image_name.png](https://github.com/sumukus/software-design-patterns/blob/05df167807d2148da81dbf6d8c597abe7ab77cb7/software%20design%20patterns.png)
+![Software Design Patterns](https://raw.githubusercontent.com/sumukus/software-design-patterns/997c46d04b29f80330462df7f9608dd09d2beffe/behavioural-patterns/Observer/Observer.png)
