@@ -6,5 +6,5 @@ Gang of Four(GoF): 23 software design patterns
 
 ## Reference
 ```
-Gamma, E., Helm, R., Johnson, R.,, Vlissides, J. M. (1994). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley Professional. ISBN: 0201633612
+Gamma, E., Helm, R., Johnson, R.,, Vlissides, J. M. (1994). * Design Patterns: Elements of Reusable Object-Oriented Software *. Addison-Wesley Professional. ISBN: 0201633612
 ```
